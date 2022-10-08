@@ -348,7 +348,7 @@ const HeaderMenu = () => {
                         </ProfileIconWrapper>
                     </Col>
 
-                    <Col xs={{ span: 8, order: 2 }} lg={{ span: 6, order: 1 }}>
+                    <Col xs={{ span: 8, order: 2 }} lg={{ span: 5, order: 1 }}>
                         <Logo src={LogoSrc} onClick={() => history.push('/')} />
                     </Col>
 
